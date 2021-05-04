@@ -1,0 +1,9 @@
+G:\School\Spring2021\C++\projects\CameraFinalTests\test2\New_Communication_App\bin\Debug\New_Communication_App.exe.config
+G:\School\Spring2021\C++\projects\CameraFinalTests\test2\New_Communication_App\bin\Debug\New_Communication_App.exe
+G:\School\Spring2021\C++\projects\CameraFinalTests\test2\New_Communication_App\bin\Debug\New_Communication_App.pdb
+G:\School\Spring2021\C++\projects\CameraFinalTests\test2\New_Communication_App\obj\Debug\New_Communication_App.csprojAssemblyReference.cache
+G:\School\Spring2021\C++\projects\CameraFinalTests\test2\New_Communication_App\obj\Debug\New_Communication_App.csproj.CoreCompileInputs.cache
+G:\School\Spring2021\C++\projects\CameraFinalTests\test2\New_Communication_App\obj\Debug\New_Communication_App.exe
+G:\School\Spring2021\C++\projects\CameraFinalTests\test2\New_Communication_App\obj\Debug\New_Communication_App.pdb
+G:\School\Spring2021\C++\projects\CameraFinalTests\test2\New_Communication_App\obj\Debug\New_Communication_App.Properties.Form1.resources
+G:\School\Spring2021\C++\projects\CameraFinalTests\test2\New_Communication_App\obj\Debug\New_Communication_App.csproj.GenerateResource.cache
