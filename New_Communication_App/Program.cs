@@ -130,12 +130,6 @@ namespace New_Communication_App
             //    Console.WriteLine("Attempting to parse command:" + inp);
             //    //parse input
             //}
-
-
-            while (true)
-            {
-
-            }
         }
         
         static bool loadImg()
@@ -725,7 +719,7 @@ namespace New_Communication_App
             // Return the final image
             return fin;
         }
-        public static ushort[] loadFits(String filename)
+        /*public static ushort[] loadFits(String filename)
         {
             ushort[] output_values;
             HiQE.Fits loaded_Fits = new HiQE.Fits(filename);
@@ -743,6 +737,6 @@ namespace New_Communication_App
             output_fits.XBIN = (int)xbin;
             output_fits.YBIN = (int)ybin;
             output_fits.Save(fileName);
-        }
+        }*/
     }
 }
