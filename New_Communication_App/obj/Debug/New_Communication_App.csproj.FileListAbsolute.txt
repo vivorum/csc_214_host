@@ -7,3 +7,12 @@ G:\School\Spring2021\C++\projects\CameraFinalTests\test2\New_Communication_App\o
 G:\School\Spring2021\C++\projects\CameraFinalTests\test2\New_Communication_App\obj\Debug\New_Communication_App.pdb
 G:\School\Spring2021\C++\projects\CameraFinalTests\test2\New_Communication_App\obj\Debug\New_Communication_App.Properties.Form1.resources
 G:\School\Spring2021\C++\projects\CameraFinalTests\test2\New_Communication_App\obj\Debug\New_Communication_App.csproj.GenerateResource.cache
+C:\Users\dvena\Desktop\CSC214S21\Project submissions\Luciano-Reed\New_Communication_App\bin\Debug\New_Communication_App.exe.config
+C:\Users\dvena\Desktop\CSC214S21\Project submissions\Luciano-Reed\New_Communication_App\bin\Debug\New_Communication_App.exe
+C:\Users\dvena\Desktop\CSC214S21\Project submissions\Luciano-Reed\New_Communication_App\bin\Debug\New_Communication_App.pdb
+C:\Users\dvena\Desktop\CSC214S21\Project submissions\Luciano-Reed\New_Communication_App\obj\Debug\New_Communication_App.csprojAssemblyReference.cache
+C:\Users\dvena\Desktop\CSC214S21\Project submissions\Luciano-Reed\New_Communication_App\obj\Debug\New_Communication_App.Properties.Form1.resources
+C:\Users\dvena\Desktop\CSC214S21\Project submissions\Luciano-Reed\New_Communication_App\obj\Debug\New_Communication_App.csproj.GenerateResource.cache
+C:\Users\dvena\Desktop\CSC214S21\Project submissions\Luciano-Reed\New_Communication_App\obj\Debug\New_Communication_App.csproj.CoreCompileInputs.cache
+C:\Users\dvena\Desktop\CSC214S21\Project submissions\Luciano-Reed\New_Communication_App\obj\Debug\New_Communication_App.exe
+C:\Users\dvena\Desktop\CSC214S21\Project submissions\Luciano-Reed\New_Communication_App\obj\Debug\New_Communication_App.pdb
